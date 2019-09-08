@@ -22,6 +22,7 @@ Create a basic website that creates customizable events on a Google Calendar.
 ## Resources for Further Learning
 
  - Google Calendar API Quickstart - https://developers.google.com/calendar/quickstart/js
+ - Documentation on creating events - https://developers.google.com/calendar/create-events
  - Google Dev Video on creating events - https://www.youtube.com/watch?v=tNo9IoZMelI
  - Another video on creating events - https://www.youtube.com/watch?v=4lVSLsE7z8U
  - Moment.js - https://momentjs.com
